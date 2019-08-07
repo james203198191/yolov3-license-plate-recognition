@@ -4,7 +4,5 @@
 
 ![ScreenShot](000104.jpg)
 ![ScreenShot](000132.jpg)
-![ScreenShot](300058.jpg)
 ![ScreenShot](300209.jpg)
-![ScreenShot](300232.jpg)
 ![ScreenShot](400041.jpg)
