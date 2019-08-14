@@ -7,5 +7,4 @@ https://drive.google.com/file/d/1MntddasD6szMIV0eGDyjpiBT3dIdtZHV/view?usp=shari
 ![ScreenShot](300209.jpg)
 ![ScreenShot](300225.jpg)
 ![ScreenShot](400041.jpg)
-![ScreenShot](300232.jpg)
 
